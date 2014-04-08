@@ -6,7 +6,8 @@
             "details": "https://github.com/johnrork/ST3-HTML-Underscore-Syntax",
             "releases": [
                 {
-                    "sublime_text": "3",
+                    "platforms": ["osx",],
+                    "sublime_text": ">=3000",
                     "details": "https://github.com/johnrork/ST3-HTML-Underscore-Syntax/tags"
                 }
             ]
