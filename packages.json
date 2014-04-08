@@ -1,0 +1,15 @@
+{
+    "schema_version": "2.0",
+    "packages": [
+        {
+            "name": "HTML Underscore Syntax",
+            "details": "https://github.com/johnrork/ST3-HTML-Underscore-Syntax",
+            "releases": [
+                {
+                    "sublime_text": "3",
+                    "details": "https://github.com/johnrork/ST3-HTML-Underscore-Syntax/tags"
+                }
+            ]
+        }
+    ]
+}
